@@ -4,3 +4,8 @@ dist-preview
 *.local
 .DS_Store
 .vite
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+vite.singlefile.config.js
+vite.singlefile.config.d.ts
